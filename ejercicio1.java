@@ -10,7 +10,7 @@ public class ejercicio1 {
 
         System.out.println("El numero es: "+num);
         System.out.println("El doble del numero es: "+num*2);
-        System.out.println("El triple del numero es "+num*3);
+        System.out.println("El triple del ssnumero es "+num*3);
         sc.close();
     }
 }
